@@ -1,12 +1,17 @@
 ## Hi, I'm Przemek and my passion is front-end 😉 
-<img src='https://img.shields.io/static/v1.svg?label=&message=HTML&color=e34c26'>
-<img src='https://img.shields.io/static/v1.svg?label=&message=CSS3&color=3a98d1'>
-<img src='https://img.shields.io/static/v1.svg?label=&message=JavaScript&color=f0d91d'>
-<img src='https://img.shields.io/static/v1.svg?label=&message=WordPress&color=268aac'>
-<img src='https://img.shields.io/static/v1.svg?label=&message=Git&color=ea4e33'>
-<img src='https://img.shields.io/static/v1.svg?label=&message=Sass&color=c76495'>
-<img src='https://img.shields.io/static/v1.svg?label=&message=BootStrap&color=543b79'>
-<img src='https://img.shields.io/static/v1.svg?label=&message=Git&color=ea4e33'>
+<div style="display: flex;">
+  <img src='https://img.shields.io/static/v1.svg?label=&message=HTML&color=e34c26'>
+  <img src='https://img.shields.io/static/v1.svg?label=&message=CSS3&color=3a98d1'>
+  <img src='https://img.shields.io/static/v1.svg?label=&message=JavaScript&color=f0d91d'>
+  <img src='https://img.shields.io/static/v1.svg?label=&message=WordPress&color=268aac'>
+  <img src='https://img.shields.io/static/v1.svg?label=&message=Git&color=ea4e33'>
+  <img src='https://img.shields.io/static/v1.svg?label=&message=Sass&color=c76495'>
+  <img src='https://img.shields.io/static/v1.svg?label=&message=BootStrap&color=543b79'>
+  <img src='https://img.shields.io/static/v1.svg?label=&message=Git&color=ea4e33'>
+</div>
+
+
+
 
 
 
