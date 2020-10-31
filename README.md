@@ -7,7 +7,7 @@
   <img src='https://img.shields.io/static/v1.svg?label=&message=Git&color=ea4e33'>
   <img src='https://img.shields.io/static/v1.svg?label=&message=Sass&color=c76495'>
   <img src='https://img.shields.io/static/v1.svg?label=&message=BootStrap&color=543b79'>
-  <img src='https://img.shields.io/static/v1.svg?label=&message=Git&color=ea4e33'>
+  <img src='https://img.shields.io/static/v1.svg?label=&message=Adobe&color=ea4e33'>
 </div>
 
 
