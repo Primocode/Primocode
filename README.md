@@ -3,6 +3,7 @@
   <img src='https://img.shields.io/static/v1.svg?label=&message=HTML5&color=e34c26'>
   <img src='https://img.shields.io/static/v1.svg?label=&message=CSS3&color=3a98d1'>
   <img src='https://img.shields.io/static/v1.svg?label=&message=JavaScript&color=f0d91d'>
+  <img src='https://img.shields.io/static/v1.svg?label=&message=three.js&color=28a745'>
   <img src='https://img.shields.io/static/v1.svg?label=&message=WordPress&color=268aac'>
   <img src='https://img.shields.io/static/v1.svg?label=&message=Git&color=ea4e33'>
   <img src='https://img.shields.io/static/v1.svg?label=&message=Sass&color=c76495'>
